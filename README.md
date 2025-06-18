@@ -4,13 +4,11 @@
 
 
 
----
-
 <h2 align="center">🌌 Welcome to My Orbit</h2>
 
 <div align="center">
 
-🧕🏽 Hijabi Developer • 🖌️ UI Designer • 🤖 AI Intern  
+🧕🏽 Developer • 🖌️ UI Designer • 🤖 AI Intern  
 Crafting beautiful logic + intelligent visuals.  
 
 📍 Based in Pakistan  
@@ -19,8 +17,6 @@ Crafting beautiful logic + intelligent visuals.
 🎯 Goal: To inspire while I innovate
 
 </div>
-
----
 
 ### 🚀 Featured Missions
 
@@ -31,7 +27,7 @@ Crafting beautiful logic + intelligent visuals.
 | 🤖 **YouTube AI Agent** | Fully automated idea-to-upload pipeline | [Demo](#) |
 | 🌐 **My Portfolio** | All of me, in one place | [Visit](https://bismaportfolio.netlify.app) |
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -39,7 +35,7 @@ Crafting beautiful logic + intelligent visuals.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,vscode,github" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -51,7 +47,7 @@ Crafting beautiful logic + intelligent visuals.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisma-codes&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
----
+
 
 ### 🌐 Contact Me
 
@@ -64,7 +60,6 @@ Crafting beautiful logic + intelligent visuals.
   </a>
 </p>
 
----
 
 ### 💭 Final Thought
 
