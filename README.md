@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="120" alt="Hijabi Avatar Icon" />
+  <img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" width="120" alt="Hijabi Girl Avatar" />
 </p>
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=800&center=true&vCenter=true&color=00F7FF&width=700&lines=Hey,+I'm+Bisma+Riaz.;Creative+Technologist+in+Progress.;Designing+the+Future,+One+Pixel+at+a+Time." alt="Typing Intro" /></h1>
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-🧕🏽 Hijabi Developer • 🖌️ UI Designer • 🤖 AI Intern  
+🧕🏽 Developer • 🖌️ UI Designer • 🤖 AI Intern  
 Crafting beautiful logic + intelligent visuals.  
 
 📍 Based in Pakistan  
