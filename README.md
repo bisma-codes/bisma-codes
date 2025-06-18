@@ -30,7 +30,7 @@
 - 🤖 [YouTube Auto AI Agent](#) – Automated video idea-to-upload flow
 - 🧳 [Portfolio Site](#) – Showcasing all my work in one creative space
 
-> *(Let me know if you want custom README files for these too — I'll make each repo shine.)*
+
 
 ---
 
