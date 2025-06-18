@@ -1,4 +1,6 @@
-<!-- FUTURISTIC DEVELOPER PROFILE README -->
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="120" alt="Hijabi Avatar Icon" />
+</p>
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=800&center=true&vCenter=true&color=00F7FF&width=700&lines=Hey,+I'm+Bisma+Riaz.;Creative+Technologist+in+Progress.;Designing+the+Future,+One+Pixel+at+a+Time." alt="Typing Intro" /></h1>
 
@@ -12,34 +14,30 @@
 
 <div align="center">
 
-🎨 UI Designer → 💻 Web Developer → 🤖 AI Intern  
+🧕🏽 Hijabi Developer • 🖌️ UI Designer • 🤖 AI Intern  
 Crafting beautiful logic + intelligent visuals.  
 
-Currently building things that are:
-- Responsive ✨
-- Automated 🤖
-- Purposeful 💡
-
-🌍 Based in: Pakistan  
-🌱 Growing in: JavaScript | React | APIs | Creative Frontend  
-🎯 Focused on: Real-world projects that wow and work
+📍 Based in Pakistan  
+🌱 Currently learning: JavaScript, React, APIs  
+💡 Focused on: Real-world design systems, creative frontend, and AI-powered tools  
+🎯 Goal: To inspire while I innovate
 
 </div>
 
 ---
 
-### 🚀 Featured Missions (Projects)
+### 🚀 Featured Missions
 
 | 🚀 Project | 💬 Description | 🔗 Live |
 |-----------|----------------|--------|
 | 🏨 **Hotel Booking App** | Room selection UI + clean booking flow | [Demo](#) |
 | ⌚ **Wrist Watch Store** | Modern storefront & interactive product showcase | [Demo](#) |
 | 🤖 **YouTube AI Agent** | Fully automated idea-to-upload pipeline | [Demo](#) |
-| 🌐 **My Portfolio** | Where all the magic lives | [Visit](https://bismaportfolio.netlify.app) |
+| 🌐 **My Portfolio** | All of me, in one place | [Visit](https://bismaportfolio.netlify.app) |
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,vscode,github" />
@@ -47,7 +45,7 @@ Currently building things that are:
 
 ---
 
-### 📊 System Logs (GitHub Stats)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bisma-codes&show_icons=true&theme=midnight-purple&hide_border=true" />
@@ -59,7 +57,7 @@ Currently building things that are:
 
 ---
 
-### 📡 Contact Transmission
+### 🌐 Contact Me
 
 <p align="center">
   <a href="mailto:bismamohdriaz@gmail.com">
@@ -72,11 +70,10 @@ Currently building things that are:
 
 ---
 
-### 🧠 Final Thought
+### 💭 Final Thought
 
 <p align="center">
-  <em>“I don’t just code. I translate imagination into interfaces.”</em>
-  <br/>
+  <em>“I don’t just code. I translate imagination into interfaces — as a hijabi girl in tech, I’m here to be the future I wanted to see.”</em>
+  <br/><br/>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 </p>
-
