@@ -24,7 +24,7 @@ Crafting beautiful logic + intelligent visuals.
 |-----------|----------------|--------|
 | 🏨 **Hotel Booking App** | Room selection UI + clean booking flow | [Demo](#) |
 | ⌚ **Wrist Watch Store** | Modern storefront & interactive product showcase | [Demo](#) |
-| 🤖 **YouTube AI Agent** | Fully automated idea-to-upload pipeline | [Demo](#) |
+| 🤖 **YouTube AI Agent** | Fully automated idea-to-upload pipeline | [Visit](https://github.com/bisma-codes/youtube-auto-agent) |
 | 🌐 **My Portfolio** | All of me, in one place | [Visit](https://bismaportfolio.netlify.app) |
 
 
