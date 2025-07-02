@@ -39,7 +39,7 @@ I love turning imaginative concepts into pixel-perfect experiences that feel smo
 
 A storybook-inspired portfolio to showcase my dev/design journey through aesthetic storytelling and scroll animations.
 
-- [🌐 Live Site](https://bismaportfolio.netlify.app)  
+- [🌐 Live Site](https://bisma-codes.github.io/Bismaportfolio/)  
 - [💻 GitHub Repo](https://github.com/bisma-codes/bismaportfolio)
 
 ---
