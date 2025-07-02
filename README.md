@@ -1,108 +1,112 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=800&center=true&vCenter=true&color=00F7FF&width=700&lines=Hey,+I'm+Bisma+Riaz.;Creative+Technologist+in+Progress.;Designing+the+Future,+One+Pixel+at+a+Time." alt="Typing Intro" /></h1>
-
----
-
-### 👋 Greetings, fellow explorer!
-
-I'm **Bisma Riaz**, a passionate **Front-End Developer** and **UI Designer** on a mission to build the web of tomorrow, one pixel at a time. Based in Pakistan, I thrive on crafting **intuitive**, **visually stunning**, and **high-performance web experiences** that truly resonate with users. My journey is all about blending **creative design** with **intelligent code** to solve real-world problems.
-
----
-
-### 🌟 What I'm Up To
-
-* 🌱 **Currently Deepening:** My expertise in **React** and **TypeScript**, pushing the boundaries of component architecture and state management.
-* 💡 **Exploring Next:** Diving into **WebSockets** for real-time applications and experimenting with **generative AI in UI workflows**.
-* 🤝 **Open For:** Collaborations on exciting front-end projects, and **new opportunities** where I can contribute my skills to impactful teams.
-
----
-
-### 🎨 My Digital Canvas: Technologies & Tools
-
-My toolkit is ever-evolving, but here are the core technologies I wield to bring digital visions to life:
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00F9FF&width=750&lines=Hi+there,+I'm+Bisma+Riaz.;Creative+Front-End+Developer.;Pixel+Artist+at+Heart.;Bridging+Design+and+Code." alt="Typing Intro" />
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,vscode,github,git,ts,tailwind" alt="HTML, CSS, JavaScript, React, Python, Figma, VS Code, GitHub, Git, TypeScript, Tailwind CSS" />
-</p>
-<br>
-<p align="center">
-  <em>( Hover over the icons to see names! )</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF0FC&height=150&section=header&text=Bisma%20Riaz%20%7C%20Frontend%20Dev&fontSize=30&fontColor=000000&animation=twinkling" />
 </p>
 
 ---
 
-### 🚀 Featured Creations
+## 👩‍💻 About Me
 
-Here are some projects that best showcase my skills and passion for front-end development. Click through to experience them live or explore the code!
-
-#### 🏨 Fellow Feeling Lodge
-A responsive and user-friendly hotel booking interface. I focused on intuitive room selection, a smooth booking flow, and a clean, inviting aesthetic.
-
-* **Live Demo:** [Visit Site](https://bisma-codes.github.io/fellow-feeling-lodge/)
-* **Code:** [Explore Repository](https://github.com/bisma-codes/fellow-feeling-lodge)
-
-#### 🌐 My Personal Portfolio
-This website is my central digital hub, meticulously designed and developed to showcase all my projects, skills, and my professional journey as a developer.
-
-* **Live Demo:** [Visit Site](https://bismaportfolio.netlify.app)
-* **Code:** [Explore Repository](https://github.com/bisma-codes/bismaportfolio)
-
-#### ⌚ Wrist Watch Store
-A sleek and modern e-commerce storefront. This project emphasizes interactive product showcases, a seamless Browse experience, and a contemporary design.
-
-* **Live Demo:** **Coming Soon**
-* **Code:** [Explore Repository](https://github.com/bisma-codes/your-wrist-watch-store-repo)
-
-#### 🤖 YouTube AI Agent
-An experimental venture into AI, this project demonstrates a fully automated pipeline for generating and uploading YouTube content. A fascinating blend of automation and creative technology.
-
-* **Live Demo:** *(No public demo for this backend-heavy project)*
-* **Code:** [Explore Repository](https://github.com/bisma-codes/youtube-auto-agent)
+I'm **Bisma Riaz**, a passionate **Front-End Developer** from Pakistan 🇵🇰  
+I specialize in designing and building **beautiful**, **high-performance** user interfaces using **React**, **TailwindCSS**, and modern design systems.  
+I love turning imaginative concepts into pixel-perfect experiences that feel smooth, human, and alive.
 
 ---
 
-### 🏆 GitHub Milestones
+## 🚀 Currently Exploring
 
-See my coding journey unfold through these dynamic stats:
+- ⚛️ React + TypeScript for scalable UI components  
+- 🎨 Framer Motion for animated UIs  
+- 🔄 Real-time experiences with WebSockets  
+- 🤖 Creative AI workflows in frontend  
+
+---
+
+## 🧰 My Tech Stack
 
 <p align="center">
-  <a href="https://github.com/bisma-codes">
-    <img src="https://github-profile-trophy.vercel.app/?username=bisma-codes&theme=radical&no-frame=true&no-bg=true" alt="Bisma's GitHub Trophies" />
-  </a>
-  <br>
-  <a href="https://github.com/bisma-codes">
-    <img src="https://github-readme-stats.vercel.app/api?username=bisma-codes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&line_height=25" alt="Bisma's GitHub Stats" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vscode,git,github,python" alt="Skill Icons" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎨 Personal Developer Portfolio
+
+A storybook-inspired portfolio to showcase my dev/design journey through aesthetic storytelling and scroll animations.
+
+- [🌐 Live Site](https://bismaportfolio.netlify.app)  
+- [💻 GitHub Repo](https://github.com/bisma-codes/bismaportfolio)
+
+---
+
+### 🎯 JobApplicationTracker – Visual Job Hunt Organizer
+
+ A clean, responsive React + Tailwind app to track job applications by status, deadlines, and company — optimized for clarity and productivity.
+
+- [🌐 Live Demo](https://bisma-codes.github.io/Jobapplicationtracker/)  
+- [💻 GitHub Repo](https://github.com/bisma-codes/Jobapplicationtracker)
+
+---
+
+### 🏨 Fellow Feeling Lodge
+
+A hotel booking interface focused on intuitive UX, clean design, and mobile responsiveness.
+
+- [🌐 Live Site](https://bisma-codes.github.io/fellow-feeling-lodge/)  
+- [💻 GitHub Repo](https://github.com/bisma-codes/fellow-feeling-lodge)
+
+---
+
+### 🤖 YouTube AI Agent
+
+An AI-powered full-stack pipeline that automates YouTube content from idea → script → voice → subtitles → video → upload.
+
+- [💻 GitHub Repo](https://github.com/bisma-codes/youtube-auto-agent)
+
+---
+
+## 📊 GitHub At a Glance
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bisma-codes&theme=radical&margin-w=10&no-frame=true&no-bg=true" />
   <br/>
-  <a href="https://github.com/bisma-codes">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisma-codes&theme=midnight-purple&hide_border=true" alt="Bisma's GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bisma-codes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
   <br/>
-  <a href="https://github.com/bisma-codes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisma-codes&layout=compact&theme=midnight-purple&hide_border=true" alt="Bisma's Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisma-codes&theme=midnight-purple&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisma-codes&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-### ✉️ Let's Connect & Collaborate!
+## 🤝 Let's Collaborate
 
-Got an exciting project? Looking for a passionate front-end developer? Or just want to chat about the latest in tech? Don't hesitate to reach out!
+Looking for a frontend dev who can bring your designs to life?  
+Got a cool idea or just want to chat about tech?
 
 <p align="center">
-  <a href="mailto:bismamohdriaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:bismamohdriaz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://bismaportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/bisma-riaz-028489291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://bismaportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ❤️ My Vision
+## 💭 My Mantra
 
-> *"I don’t just code. I translate imagination into interfaces — I’m here to be the future I wanted to see."*
+> _“I don’t just build interfaces. I shape moments, interactions, and memories — one pixel at a time.”_
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF0FC&height=120&section=footer" />
+</p>
