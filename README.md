@@ -37,9 +37,9 @@ I love turning imaginative concepts into pixel-perfect experiences that feel smo
 
 ### 🎨 Personal Developer Portfolio
 
-A storybook-inspired portfolio to showcase my dev/design journey through aesthetic storytelling and scroll animations.
+A neon portfolio to showcase my dev/design journey through aesthetic storytelling and scroll animations.
 
-- [🌐 Live Site](https://bismaportfolio.vercel.app/)  
+- [🌐 Live Site](https://bmrportfolio.vercel.app/)  
 - [💻 GitHub Repo](https://github.com/bisma-codes/bismaportfolio)
 
 ---
