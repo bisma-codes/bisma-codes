@@ -40,7 +40,7 @@ I love turning imaginative concepts into pixel-perfect experiences that feel smo
 A neon portfolio to showcase my dev/design journey through aesthetic storytelling and scroll animations.
 
 - [🌐 Live Site](https://bmrportfolio.vercel.app/)  
-- [💻 GitHub Repo](https://github.com/bisma-codes/bismaportfolio)
+- [💻 GitHub Repo](https://github.com/bisma-codes/bmrportfolio)
 
 ---
 
@@ -96,7 +96,7 @@ Got a cool idea or just want to chat about tech?
   <a href="https://www.linkedin.com/in/bisma-riaz-028489291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bismaportfolio.netlify.app">
+  <a href="https://bmrportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
